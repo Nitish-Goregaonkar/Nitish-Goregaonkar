@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nitish-Goregaonkar.
 -  🎓3rd Year Diploma Student (Computer Engineering).
 - 👀 I’m interested in Cybersecurity.
-
+- 🌱 I’m currently learning Networking.
 - 👨‍💻 Former Intern :- Cybersecurity @ L&T (NMIAL).
 - 🎓CC from ISC2.
 
