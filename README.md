@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nitish-Goregaonkar.
+- 👋 Hi, I’m @Nitish-Goregaonkar
 -  🎓3rd Year Diploma Student (Computer Engineering).
 - 👀 I’m interested in Cybersecurity.
 - 🌱 I’m currently learning Networking.
