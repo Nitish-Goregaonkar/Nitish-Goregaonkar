@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitish-goregaonkar&label=Profile%20views&color=0e75b6&style=flat" alt="nitish-goregaonkar" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nitish-goregaonkar" alt="nitish-goregaonkar" /></a> </p>
 
-- 🔭 I’m currently working on **Alumni Association**
+- 🔭 I’m currently working on **Alumni Association Portal**
 
 - 🌱 I’m currently learning **Cybersecurity**
 
