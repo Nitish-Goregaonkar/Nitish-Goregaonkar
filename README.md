@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Alumni Association Portal**
 
-- 🌱 I’m currently learning **Cybersecurity**
+- 🌱 I’m currently learning **Cybersecurity - Networking**
 
 - 📫 How to reach me **goregaonkarnitish526@gmail.com**
 
