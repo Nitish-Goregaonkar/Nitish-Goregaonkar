@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **goregaonkarnitish526@gmail.com**
 
-- 📄 Know about my experiences (Former Intern @L&T Cybersecurity)
+- 📄 Know about my experiences (Former Intern @L&T Cybersecurity, Former Intern @Oasis_Infobytes Cybersecurity Analyst)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
