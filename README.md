@@ -1,6 +1,15 @@
 # 💫 About Me:
-🔭 I’m currently working on Alumni Association Portal<br><br>🌱 I’m currently learning Cybersecurity - Networking<br><br>📫 How to reach me goregaonkarnitish526@gmail.com<br><br>📄 Know about my experiences (Former Intern @L&T Cybersecurity, Former Intern @Oasis_Infobytes Cybersecurity Analyst)
+🌱 I’m currently learning **Cybersecurity - Networking & Cloud Computing**<br><br>
 
+☁️ Exploring **Google Cloud Platform (GCP)** and Cloud Technologies<br><br>
+
+🔐 I’m passionate about **Cybersecurity & Technology**<br><br>
+
+🏆 **Hackathon Finalist** — Codebits 3.0 & Codecratz 2025<br><br>
+
+📫 How to reach me **[goregaonkarnitish526@gmail.com](mailto:goregaonkarnitish526@gmail.com)**<br><br>
+
+📄 Know about my experiences (**Former Intern @L&T (TIIC) - Cybersecurity, Former Intern @Oasis_Infobytes - Cybersecurity Analyst**)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/goregaonkar18._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/goregaonkar-nitish/) 
